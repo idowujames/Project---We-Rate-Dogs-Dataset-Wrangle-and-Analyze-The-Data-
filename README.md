@@ -1,4 +1,4 @@
-# Project---We-Rate-Dogs-Dataset-Wrangle-and-Analyze-The-Data
+# Project- Analyzing The Data For We Rate Dogs
 
 This was the second project completed in the Udacity Data Analyst Certificate Course
 
